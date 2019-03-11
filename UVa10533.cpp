@@ -1,3 +1,5 @@
+//Md Najmul Huda Hridoy
+
 #include <stdio.h>
 #include <math.h>
 
