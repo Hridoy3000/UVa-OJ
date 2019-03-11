@@ -1,3 +1,5 @@
+//Md Najmul Huda Hridoy
+
 #include<bits/stdc++.h>
 using namespace std;
 bool prime[1000001];
